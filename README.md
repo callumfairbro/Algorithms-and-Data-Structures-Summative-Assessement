@@ -18,5 +18,3 @@ The single program must be created inside one and only one file titled exactly â
 2.5.	The currently displayed shape should only be filled with one colour at a time.
 
 3.	Any potential error states should not crash the program or generate generic error messages. The program should clearly indicate to the user that an error has occurred, with specific information on why the error occurred and what valid action(s) are available.
-
-![image](https://user-images.githubusercontent.com/103597110/164315654-98a383c4-cba5-4f8d-a632-937f4e2b915b.png)
