@@ -1,4 +1,4 @@
-# Alogirthms-and-Data-Structures-Coursework
+# Algorithms-and-Data-Structures-Coursework
 
 You are required to develop a single Java program with a graphical user interface (GUI) to render 2D objects based on user input, visualise some transitions between states and demonstrate how you’ve preserved states between transitions (for example, going from shape 1 to shape 2 should not leave elements of shape 1 in shape 2). You must use the same development environment as the one used in this module (Java 11 and JavaFX) to implement the logic and GUI components.
 
